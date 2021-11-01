@@ -35,7 +35,7 @@ class MaherRJ:
         self.name = 'Maher'
         self.code = {
             'backend': ['Java', 'Python', 'C#', 'C/C++'],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Angular', 'Boostrap'],
+            'frontend': ['HTML/CSS', 'TypeScript', 'JavaScript', 'Angular', 'Boostrap'],
             'devops': ['Docker', 'Kubernetes', 'Jenkins', 'GitHub Actions/Argo', 'AWS' \
                        'Terraform', 'Maven/Gradle', 'CI/CD'],
             'scripting' ['Bash', 'Python', 'Perl', 'Yaml'],
