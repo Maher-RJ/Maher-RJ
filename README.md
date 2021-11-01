@@ -38,7 +38,7 @@ class MaherRJ:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Angular', 'Boostrap'],
             'devops': ['Docker', 'Kubernetes', 'Jenkins', 'GitHub Actions/Argo', 'AWS' \
                        'Terraform', 'Maven/Gradle', 'CI/CD'],
-            'scripting' ['Bash', 'Python', 'Perl'],
+            'scripting' ['Bash', 'Python', 'Perl', 'Yaml'],
             'testing': ['Junit', 'Mockito', 'Jasmin', 'Karma'],
             'database': ['MySQL', 'SQLite'],    
         }
