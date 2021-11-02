@@ -18,7 +18,7 @@ As a Software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning ML/Ai and Data Structures, Algorithms on LeetCode;
+- 🚀 I’m currently learning ML/Ai and Data Structures, Algorithms;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [medium](https://maher-rj.medium.com);
 - 📫 How to reach me: maher.jabbar92@gmail.com;
