@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/maher-rj/maher-rj/master/name.svg" alt="Marton Lederer" />
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=FullStack+Software+Engineer;DevOps+Engineer;Always+Learning+New+Things;Interested+In+ML+And+Ai)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=FullStack+Software+Engineer;DevOps+Engineer;Always+Learning+New+Things;Interested+In+ML+And+Ai)
 
 
 ### Hi there, I'm Maher, from Stockholm, Sweden <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
