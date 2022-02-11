@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=FullStack+Software+Engineer;DevOps+Engineer;Always+Learning+New+Things;Interested+In+ML+And+Ai)
 
 
-### Hi there, I'm Maher, from Stockholm, Sweden <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Maher, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
@@ -21,7 +21,6 @@ As a Software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🚀 I’m currently learning ML/Ai and Data Structures, Algorithms;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [medium](https://maher-rj.medium.com);
-- 📫 How to reach me: maher.jabbar92@gmail.com;
 
 
 <p align="left"> <img height="210em" src="https://github-readme-stats.vercel.app/api?username=maher-rj&show_icons=true&theme=gotham" />
@@ -29,7 +28,7 @@ As a Software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Languages and Tools:**  
 
 ```python
-class MaherRJ:
+class Maher:
 
     def __init__(self):
         self.name = 'Maher'
@@ -48,7 +47,7 @@ class MaherRJ:
 
 
 if __name__ == '__main__':
-    me = MaherRJ()
+    me = Maher()
 
 ```
 
