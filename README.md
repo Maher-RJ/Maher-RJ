@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/maher-rj/maher-rj/master/name.svg" alt="Marton Lederer" />
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=FullStack+Software+Engineer;DevOps+Engineer;Always+Learning+New+Things;Interested+In+ML+And+Ai)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;DevOps+Engineer;SRE;Interested+In+ML+And+Ai)
 
 
 ### Hi there, I'm Maher, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -33,13 +33,12 @@ class Maher:
     def __init__(self):
         self.name = 'Maher'
         self.code = {
-            'backend': ['Java', 'Python', 'C#', 'C/C++'],
-            'frontend': ['HTML/CSS', 'TypeScript', 'JavaScript', 'Angular', 'Boostrap'],
-            'devops': ['Docker', 'Kubernetes', 'Jenkins', 'GitHub Actions/Argo', 'AWS' \
-                       'Maven/Gradle', 'CI/CD'],
-            'scripting' ['Bash', 'Python', 'Perl', 'Yaml'],
-            'testing': ['Junit', 'Mockito', 'Jasmin', 'Karma'],
-            'database': ['MySQL', 'SQLite'],    
+            'backend':    ['Java', 'Python', 'C#', 'C/C++'],
+            'frontend':   ['HTML/CSS', 'TypeScript', 'JavaScript', 'Angular', 'React'],
+            'devops/sre': ['Azure ''AWS', 'CI/CD', 'Docker', 'Kubernetes']
+            'scripting'   ['PowerShell', 'Bash', 'Perl'],
+            'testing':    ['Junit', 'Mockito', 'Jasmin', 'Karma'],
+            'database':   ['MySQL', 'MSSQL', 'SQLite'],    
         }
 
     def __str__(self):
