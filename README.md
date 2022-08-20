@@ -35,7 +35,7 @@ class Maher:
         self.code = {
             'backend':    ['Java', 'Python', 'C#', 'C/C++'],
             'frontend':   ['HTML/CSS', 'TypeScript', 'JavaScript', 'Angular', 'React'],
-            'devops/sre': ['Azure ''AWS', 'CI/CD', 'Docker', 'Kubernetes'],
+            'devops/sre': ['Azure 'AWS', 'CI/CD', 'Docker', 'Kubernetes'],
             'scripting'   ['PowerShell', 'Bash', 'Perl'],
             'testing':    ['Junit', 'Mockito', 'Jasmin', 'Karma'],
             'database':   ['MySQL', 'MSSQL', 'SQLite'],    
