@@ -2,14 +2,14 @@
   <img src="https://raw.githubusercontent.com/maher-rj/maher-rj/master/name.svg" alt="Marton Lederer" />
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;DevOps+Engineer;SRE;Interested+In+ML+And+Ai)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;DevOps+Engineer;SRE)
 
 
 ### Hi there, I'm Maher, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-I am a Full-Stack Software DevOps engineer. I love programming, writing, speaking and traveling.
+I am a Software engineer. I love programming, writing, speaking and traveling.
 
 As a Software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
