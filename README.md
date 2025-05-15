@@ -30,7 +30,7 @@ class Maher:
 
     def __init__(self):
         self.name = 'Maher'
-        self.code = {
+        self.skills = {
             'backend':    ['Java', 'Python', 'C#', 'C/C++'],
             'frontend':   ['HTML/CSS', 'TypeScript', 'JavaScript', 'Angular', 'React'],
             'devops/sre': ['Azure', 'AWS', 'CI/CD', 'Docker', 'Kubernetes'],
