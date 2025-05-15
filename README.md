@@ -34,9 +34,9 @@ class Maher:
             'backend':    ['Java', 'Python', 'C#', 'C/C++'],
             'frontend':   ['HTML/CSS', 'TypeScript', 'JavaScript', 'Angular', 'React'],
             'devops/sre': ['Azure', 'AWS', 'CI/CD', 'Docker', 'Kubernetes'],
-            'scripting'   ['PowerShell', 'Bash', 'Perl'],
-            'testing':    ['Junit', 'Mockito', 'Jasmin', 'Karma'],
-            'database':   ['MySQL', 'MSSQL', 'SQLite'],    
+            'data':       ['Azure Data factory', 'Synapse Analytics', 'ETL'],
+            'scripting'   ['PowerShell', 'Bash'],
+            'database':   ['MySQL', 'MSSQL', 'ADL Gen1/Gen2'],    
         }
 
     def __str__(self):
